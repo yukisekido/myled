@@ -78,4 +78,4 @@ ________________________________
 ________________________________
 
 ### ライセンス
-GNU General Public License v3.0
+[GNU General Public License v3.0](https://github.com/yukisekido/myled/blob/main/COPYING)
