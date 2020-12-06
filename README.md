@@ -50,13 +50,13 @@ $ echo s > /dev/myled0
 ```
 デバイスドライバに's'を入力すると、LEDが"sannmitsu"のモールス信号を送ります。  
 
-2.'c'を入力する  
+##### 2.'c'を入力する  
 ```
 $ echo c > /dev/myled0
 ```
 デバイスドライバに'c'を入力すると、LEDが"coronabutori"のモールス信号を送ります。  
 
-3.'m'を入力する  
+##### 3.'m'を入力する  
 ```
 $ echo m > /dev/myled0
 ```
