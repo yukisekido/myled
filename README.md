@@ -76,4 +76,4 @@ ________________________________
 ________________________________
 
 ### ライセンス
-GNU General Public License 3.0
+GNU General Public License v3.0
