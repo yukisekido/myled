@@ -17,7 +17,7 @@ ________________________________
 
 ### 必要となるもの
 
-・Raspberry Pi 4 Model B  
+・Raspberry Pi 4 Model B ×1  
 ・ブレッドボード　×1  
 ・
 ・
