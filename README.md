@@ -31,7 +31,7 @@ ________________________________
 
 実行の前に以下の作業をお願いします。  
 ```
-$ git clone   
+$ git clone https://github.com/yukisekido/myled.git  
 $ cd myled   
 $ make　　　   
 $ sudo insmod myled.ko
