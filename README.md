@@ -30,7 +30,7 @@ ________________________________
 ### 実行の前準備
 
 実行の前に以下の作業をお願いします。  
-`$ git clone  
-$ cd myled  
-$ make  
-$ sudo insmod myled.ko`
+`$ git clone`  
+`$ cd myled`  
+`$ make`  
+`$ sudo insmod myled.ko`
